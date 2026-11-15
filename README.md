@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071827,50:047857,100:10b981&height=220&section=header&text=StockVault&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SMART%20COMMERCE%20%7C%20INVENTORY%20MANAGEMENT&descAlignY=60&descSize=16" width="100%" />
 
-# StockVault
+<img src="frontend/public/StockVault-Logo-Exact.png" alt="StockVault Logo" width="420" />
 
 ### Intelligent Inventory. Seamless Operations. Complete Control.
 
