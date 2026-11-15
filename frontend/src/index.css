@@ -1,0 +1,9 @@
+﻿:root { font-family: Inter, "Segoe UI", sans-serif; color: #17251f; background: #f5f8f6; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-optical-sizing: auto; }
+html, body, #root { margin: 0; min-width: 320px; min-height: 100%; width: 100%; }
+body { min-height: 100vh; }
+a { color: inherit; text-decoration: none; }
+button { font-family: inherit; }
+::selection { background: #c8f0d9; color: #145c3d; }
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-thumb { background: #cbd8d0; border-radius: 20px; }
+::-webkit-scrollbar-track { background: #f4f7f5; }
